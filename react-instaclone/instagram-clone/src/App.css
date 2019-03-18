@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great%7CPontano+Sans');
+
+
+*:not(.exception):not(.exceptionAgain):not(.header):not(.fb-enter) {
+	font-family: 'Pontano Sans', sans-serif !important;
+}
+
+
+
+button {
+	border-radius: 45px; 
+	padding: 1%;
+	margin-top: 10px;
+	background: none;
+}
+
+/*button:hover {
+	background: pink;
+}*/
+
+.main {
+
+}
+
+.exception{
+	/*background-color: white;*/
+	color: #339AF0;
+
+}
+
+
+.fb-enter{ 
+
+	color: white;
+ }
+
+
+
+.followUser{
+	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+	/*border: 1px solid #BCBCBC;	*/
+	border-width: 1px;
+	border-color: rgb(216, 216, 216) rgb(209, 209, 209) rgb(186, 186, 186);
+	border-radius: 5px;
+}
+
+.App {
+  text-align: center;
+}

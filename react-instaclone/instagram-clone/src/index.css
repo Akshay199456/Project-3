@@ -1,0 +1,47 @@
+
+
+body {
+  font-family: 'Josefin Sans', cursive;
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.containerWidth{
+	width: 75%;  
+}
+
+.loginContainer{
+  width: 75%;
+  margin: 150px auto;
+  background: white;
+  padding: 50px;
+  border-radius: 45px;
+  opacity: .9;
+}
+
+.loginContainer:hover {
+  opacity: 1;
+}
+
+.registerContainer{
+  width: 85%;
+  margin: 40px 50px 20px 50px;
+}
+
+.imageContainer{
+  margin: 80px 50px 50px 50px;
+}
+
+.border{
+  border: 1px solid black;
+}
+
+.kep-login-facebook{
+  margin-top: 10px;
+}
