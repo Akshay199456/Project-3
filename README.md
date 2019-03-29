@@ -29,17 +29,17 @@ You can choose to sign in/ register either using facebook or by our form.
 
 Given below is the userStories used for this project:
 
-![UserStories Link](https://github.com/Akshay199456/Project-2/blob/master/public/extra/userStories.png) 
+![UserStories Link](https://github.com/Akshay199456/Project-3/blob/master/images/MVIMG_20190208_153410.jpg) 
 
 ### Wireframes and ERD:
 
 Given below is the wireFrame link and ERD used for this project:
 
-![Wireframe Link](https://github.com/Akshay199456/Project-2/blob/master/public/extra/1.jpg)
-![Wireframe Link](https://github.com/Akshay199456/Project-2/blob/master/public/extra/2.jpg)
-![Wireframe Link](https://github.com/Akshay199456/Project-2/blob/master/public/extra/3.jpg)
-![Wireframe Link](https://github.com/Akshay199456/Project-2/blob/master/public/extra/4.jpg)
-![Wireframe Link](https://github.com/Akshay199456/Project-2/blob/master/public/extra/ERD.jpg)
+![Wireframe Link](https://github.com/Akshay199456/Project-3/blob/master/images/IMG_20190208_153317.jpg)
+![Wireframe Link](https://github.com/Akshay199456/Project-3/blob/master/images/IMG_20190208_153331.jpg)
+![Wireframe Link](https://github.com/Akshay199456/Project-3/blob/master/images/IMG_20190208_153336.jpg)
+![Wireframe Link](https://github.com/Akshay199456/Project-3/blob/master/images/IMG_20190208_153417.jpg)
+![Wireframe Link](https://github.com/Akshay199456/Project-3/blob/master/images/MVIMG_20190208_153421.jpg)
 
 
 ### Contributer Information:
